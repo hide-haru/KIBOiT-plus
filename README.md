@@ -28,9 +28,11 @@ IT業界の求人を探していると、客先常駐を前提とした求人が
 <br>
 
 ## データベース定義
-<span style="color: red;">draw.ioで定義中（デバイスファイルを直に挙げる）</span>
+**⚠️draw.ioで定義中（デバイスファイルを直に挙げる）**
+
+<br>
 
 ## 技術スタック
 * フロントエンド：React
 * バックエンド：Java（フレームワーク：SpringBoot）
-* データベース：PostgreSQL<span style="color: red;">（Schema&Data.sql参照）</span>
+* データベース：PostgreSQL**⚠️（Schema&Data.sql参照）**
